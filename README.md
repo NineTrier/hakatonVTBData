@@ -2,7 +2,7 @@
 Решение для хакатона. Кейс-задача Data
 
 Какие библиотеки нужно установить 
-pip install requests
+pip install requests </br>
 pip install bs4
 pip install pandas
 pip install numpy
